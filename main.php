@@ -1,3 +1,4 @@
 <link rel="stylesheet" href="css/main.css"/>
 
-<div></div>
+<div class="main"></div>
+<div class="Ebox"></div>
