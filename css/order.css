@@ -1,0 +1,20 @@
+.side{
+    float: left;
+    width: 25%;
+    height: 90%;
+    background-color: #e5aae0;
+    position: absolute;
+    top: 100px;
+}
+
+.sidebox{
+    background-color: #CDE5DDFF;
+    color: #000;
+    width: 85%;
+    height: 150px;
+    position: relative;
+    left: 7.5%;
+    display: inline-block;
+    border-radius: 25px;
+    margin-top: 20px;
+}
