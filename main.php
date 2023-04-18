@@ -3,7 +3,8 @@
 
 <h1>restaurant logo here</h1>
 <div class="main">
-    <img style="width:100%;height: 100%;" src="img/food.jpg" alt="food" class="food"/>
+    <img style="width:100%;height: 100%;"
+         src="img/food.jpg" alt="food" class="food"/>
     <a href="order.php">
         <div class="popup">
             <p>Start order</p>

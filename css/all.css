@@ -20,7 +20,7 @@ h1{
     background-color: #cde5dd;
     color: #000;
     width:75%;
-    height: 1770px;
+    height: 85%;
     position: absolute;
     top:100px;
     right:0;
@@ -35,5 +35,4 @@ h1{
     position: absolute;
     bottom:0;
     right:0;
-    display: inline-block;
 }
