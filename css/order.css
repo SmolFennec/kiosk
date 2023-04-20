@@ -45,3 +45,15 @@
     transform: translate(-50%, -50%);
     font-size: 40px;
 }
+
+.radbox{
+background-color: #CDE5DDFF;
+    color: #000;
+    width: 85%;
+    height: 300px;
+    position: relative;
+    left: 7.5%;
+    display: inline-block;
+    border-radius: 25px;
+    margin-top: 20px;
+}
