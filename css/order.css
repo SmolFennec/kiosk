@@ -49,11 +49,48 @@
 .radbox{
 background-color: #CDE5DDFF;
     color: #000;
-    width: 85%;
+    width: 90%;
     height: 300px;
+    display: inline-block;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+.radbox img{
+    position: relative;
+    left: 5.5%;
+    display: inline-block;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+.food{
+    background-color: #dccc8b;
+    color: #000;
+    width: 30%;
+    height: 180px;
     position: relative;
     left: 7.5%;
     display: inline-block;
     border-radius: 25px;
-    margin-top: 20px;
+    margin-top: 50px;
+}
+
+.food img{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 185px;
+    height: 135px;
+    border-radius: 25px;
+
+}
+
+.food p{
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
 }
