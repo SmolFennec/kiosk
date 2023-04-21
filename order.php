@@ -28,11 +28,11 @@
     </div>
     <div class="food">
         <img src="img/burg.jpg" alt="food"/>
-        <p>burger</p>
+        <p>sandwich</p>
     </div>
     <div class="food">
         <img src="img/burg.jpg" alt="food"/>
-        <p>burger</p>
+        <p>beef</p>
     </div>
     <div class="food">
         <img src="img/burg.jpg" alt="food"/>
@@ -75,4 +75,15 @@
 
 </div>
 
-<div class="Ebox"></div>
+<div class="Ebox">
+    <div class="items">
+        <p></p>
+        <div class="line"></div>
+        <p></p>
+        <div class="line"></div>
+        <p></p>
+    </div>
+    <div class="pay">
+        <img src="img/pay.jpg" alt="pay"/>
+    </div>
+</div>
