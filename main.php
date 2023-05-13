@@ -13,3 +13,5 @@
 </div>
 
 <div class="Ebox"></div>
+
+<script src="JS/idfk.js"></script>
