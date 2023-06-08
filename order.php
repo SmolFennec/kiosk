@@ -17,14 +17,7 @@
     <div class="sidebox"><p>Food category</p></div>
     </a>
     <a href="order.php">
-    <div class="sidebox"><p>Food category</p></div>
-    </a>
-    <a href="order.php">
-    <div class="sidebox"><p>Food category</p>
-    </div>
-    </a>
-    <a href="order.php">
-    <div class="sidebox"><p>Food category</p></div>
+        <div class="sidebox"><p>Food category</p></div>
     </a>
 
 </div>
@@ -34,9 +27,6 @@
     </div>
 </a>
 <div class="main">
-    <div class="radbox">
-        <img style="width:100%;height: 100%;" src="img/banner.jpg" alt="food"/>
-    </div>
 
     <div class="food" onclick="clicked(0)">
         <img src="img/burg.jpg" alt="food"/>

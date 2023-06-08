@@ -1,11 +1,11 @@
 .popup{
     background-color: #000000;
     color: #ffffff;
-    width:75%;
-    height: 250px;
+    width:50%;
+    height: 200px;
     position: absolute;
-    bottom:700px;
-    right:80px;
+    bottom:250px;
+    right:300px;
     display: inline-block;
     font-size: 60px;
 }

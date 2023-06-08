@@ -1,3 +1,57 @@
 .order{
+    background-color: #000000;
+    color: #ffffff;
+    width: 50%;
+    height: 490px;
+    position: relative;
+    left: 7.5%;
+    display: inline-block;
+    border-radius: 25px;
+    margin-top: 20px;
 
+}
+
+.items p{
+    white-space: pre;
+    margin-left: 30px;
+}
+
+.pay{
+    background-color: #000000;
+    width: 10%;
+    height: 80px;
+    position: relative;
+    left: 35%;
+    display: inline-block;
+}
+
+.pay img{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 185px;
+    height: 135px;
+    border-radius: 25px;
+    cursor: pointer;
+
+}
+
+.total{
+    background-color: #000000;
+    color: #ffffff;
+    width: 13%;
+    height: 60px;
+    position: absolute;
+    left: 65%;
+    top: 45%;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.total p{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }

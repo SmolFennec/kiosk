@@ -15,7 +15,7 @@ function clicked(Bnum) {
     document.getElementById("total").innerHTML = "£" + total.toFixed(2);
 }
 
-function finalise(){
+function finalise(){ n
     localStorage.setItem("order", JSON.stringify(order));
     window.location.href = "final.php";
 }

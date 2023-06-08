@@ -6,13 +6,19 @@
 <div class="main">
 
 <div class="order">
-
-
-
+    <p id="L1">.</p>
+    <div class="line"></div>
+    <p id="L2">.</p>
+    <div class="line"></div>
+    <p id="L3">.</p>
 </div>
 </div>
 
 
 
 
-<div class="Ebox"></div>
+<div class="Ebox">
+
+</div>
+
+<script src="JS/final.js"></script>
